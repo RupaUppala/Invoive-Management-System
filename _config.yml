@@ -1,0 +1,19 @@
+# Jekyll Configuration File
+
+# Exclude folders and files from being processed by Jekyll
+exclude:
+  - node_modules
+  - backend/node_modules
+  - frontend/node_modules
+  - .git
+  - vendor
+  - README.md
+  - LICENSE
+
+# Optional: You can set your theme if you ever use GitHub Pages
+# theme: jekyll-theme-primer
+
+# Optional: Site settings (not mandatory for build)
+title: Invoice-Management-System
+description: A project repository for invoice management system
+author: Rupa 
